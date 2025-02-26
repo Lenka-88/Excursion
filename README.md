@@ -1,1 +1,1 @@
-Project 1 - showcasing basing HTML and CSS coding
+Project 1 - showcasing basic HTML and CSS coding
